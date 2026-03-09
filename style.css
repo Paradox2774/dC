@@ -206,6 +206,12 @@ h1, h2, h3, h4, h5, h6 {
     color: var(--primary-blue);
 }
 
+.logo-icon-img {
+    height: 48px;
+    width: auto;
+    object-fit: contain;
+}
+
 .logo-text {
     display: flex;
     flex-direction: column;
